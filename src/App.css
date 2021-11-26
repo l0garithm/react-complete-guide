@@ -1,0 +1,10 @@
+.expenseWrapper {
+    margin: 2rem auto;
+    display: block;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 12px;
+    width: 50%;
+    height: fit-content;
+    background: rgb(10, 9, 9);
+}
